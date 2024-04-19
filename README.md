@@ -1,5 +1,5 @@
 TicTacToe
-This a two player tic-tac-toe game developed using nnumpy module of python.
+This a two player tic-tac-toe game developed using numpy module of python.
 
 Simply run the tictactoe.py file to start the  game.
 
